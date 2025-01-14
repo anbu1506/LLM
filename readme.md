@@ -19,7 +19,7 @@ The model consists of several key components:
 To run this project, you need to install the following Python dependencies:
 
 ```bash
-pip install torch transformers numpy
+pip install torch numpy
 ```
 
 ## Dataset
